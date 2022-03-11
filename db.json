@@ -1,0 +1,206 @@
+{
+  "propertyTypes": [
+    {
+      "id": 1,
+      "type": "Houses",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"
+    },
+    {
+      "id": 2,
+      "type": "Hotels",
+      "image": "https://images.unsplash.com/photo-1584132905271-512c958d674a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"
+    },
+    {
+      "id": 3,
+      "type": "Motels",
+      "image": "https://images.unsplash.com/photo-1625669709111-6df35affa0a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"
+    },
+    {
+      "id": 4,
+      "type": "Apartments",
+      "image": "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2373&q=80"
+    },
+    {
+      "id": 5,
+      "type": "Condos",
+      "image": "https://images.unsplash.com/photo-1580041065738-e72023775cdc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"
+    },
+    {
+      "id": 6,
+      "type": "Resorts",
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"
+    }
+  ],
+  "listingData": [
+    {
+      "id": 1,
+      "title": "Sherton",
+      "type": "Hotels",
+      "description": "A 9-minute walk from the Eaton Centre, this sleek conference hotel is also 1 km from the landmark CN Tower.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 190,
+      "address": "Adress: 123 Queen St W, Toronto, ON M5H 2M9",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.848123866466!2d-79.384315!3d43.6513281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34cdb70f56c5%3A0x1e2b42921937d216!2sSheraton%20Centre%20Toronto%20Hotel!5e0!3m2!1sen!2sca!4v1645931685081!5m2!1sen!2sca",
+      "image": "https://images.trvl-media.com/hotels/1000000/30000/23600/23541/e3ed3ae0_z.jpg",
+      "bestSeller": true
+    },
+    {
+      "id": 2,
+      "title": "Marriott",
+      "type": "Hotels",
+      "description": "This straightforward downtown hotel is a 4-minute walk from Dundas Street metro station and an 11-minute walk from the Art Gallery of Ontario.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 150,
+      "address": "525 Bay St., Toronto, ON M5G 2L2",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127504.79144664572!2d-79.39862363490944!3d43.6694248640592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13 1!3m3!1m2!1s0x4d2adb0eed0062d5%3A0x4d90f4cdb4be92f4!2sMarriott%20Downtown%20at%20CF%20Toronto%20Eaton%20Centre!5e0!3m2!1sen!2sca!4v1646429568310!5m2!1sen!2sca",
+      "image": "https://cache.marriott.com/content/dam/marriott-renditions/YYZMR/yyzmr-guestroom-1362-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+      "bestSeller": true
+    },
+    {
+      "id": 3,
+      "title": "Four Seasons",
+      "type": "Hotels",
+      "description": "In the fashionable Yorkville shopping and restaurant quarter, this high-rise, luxe property is a 9-minute walk from Royal Ontario Museum.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 260,
+      "address": "60 Yorkville Ave, Toronto, ON M4W 0A4",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184701.79540176297!2d-79.3986237807879!3d43.669686226527084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34a4d8b112f5%3A0x4326f2e10e3c594f!2sFour%20Seasons%20Hotel%20Toronto!5e0!3m2!1sen!2sca!4v1646429855505!5m2!1sen!2sca",
+      "image": "http://secure.s.forbestravelguide.com/img/properties/four-seasons-hotel-toronto/four-seasons-hotel-toronto-presidential-suite.jpg",
+      "bestSeller": false
+    },
+    {
+      "id": 4,
+      "title": "The Briars Resort",
+      "type": "Resorts",
+      "description": "Dating to the 1840s, this posh resort on the edge of Lake Simcoe is 4 km from Sibbald Point Provincial Park and 36.9 km from downtown Newmarket.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 210,
+      "address": "55 Hedge Rd, Jacksons Point, ON L0E 1L0",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2854.424315234649!2d-79.36411028434547!3d44.3217841169576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d54d23c9632b6b%3A0x752bfed7242c8e32!2sThe%20Briars%20Resort%20%26%20Spa!5e0!3m2!1sen!2sca!4v1646430007373!5m2!1sen!2sca",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/bb/ae/0e/main-entrance-and-tower.jpg",
+      "bestSeller": true
+    },
+    {
+      "id": 5,
+      "title": "Friday Harbour",
+      "type": "Resorts",
+      "description": "Great place to eat, walk and relax next to the marina.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 160,
+      "address": "3999 Friday Dr, Innisfil, ON L9S 0J7",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14137.471096343552!2d-79.55322008417481!3d44.38758965436429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882aafb9fccb5c0f%3A0xde2761a14c7cf18e!2sFriday%20Harbour%20Resort!5e0!3m2!1sen!2sca!4v1646430314239!5m2!1sen!2sca",
+      "image": "http://barrie360.com/wp-content/uploads/2020/02/Friday-Harbour-All-Photos-12753457-scaled.jpg",
+      "bestSeller": false
+    },
+    {
+      "id": 6,
+      "title": "Comfort Inn Toronto Northeast",
+      "type": "Motels",
+      "description": "Within a 5-km drive of several major corporate offices, this simple hotel is a 12-km drive from the Markham Museum & Historic Village and a 15.5 km drive from the Ontario Science Centre",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 80,
+      "address": "8330 Woodbine Ave, Markham, ON L3R 2N8",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46038.36505973711!2d-79.38376910152589!3d43.84758258902323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d4c00133259f%3A0x6f86cd42d0b6142c!2sComfort%20Inn%20Toronto%20Northeast!5e0!3m2!1sen!2sca!4v1646430481944!5m2!1sen!2sca",
+      "image": "https://pix10.agoda.net/hotelImages/4872687/0/0ba606dec7bcab35d096d96bfbee8952.jpg?ca=9&ce=1&s=1024x768",
+      "bestSeller": false
+    },
+    {
+      "id": 7,
+      "title": "Best Western",
+      "type": "Motels",
+      "description": "Off Highways 404 and 407, this informal hotel is 9 minutes' walk from Jubilee Square mall and 17 km from Canada's Wonderland amusement park.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 140,
+      "address": "600 Hwy 7, Richmond Hill, ON L4B 1B2",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46038.36505973711!2d-79.38376910152589!3d43.84758258902323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b2b4b21b843b9%3A0x25ce06bae7d631f!2sBest%20Western%20Parkway%20Hotel%20Toronto%20North!5e0!3m2!1sen!2sca!4v1646430660495!5m2!1sen!2sca",
+      "image": "https://www.globimmo.net/image/server3-b-5-1-9-5-ab9be670b7542e036730c897407a8a67cd0ff0a88486c0debccf94017dc.jpg",
+      "bestSeller": true
+    },
+    {
+      "id": 8,
+      "title": "Great House",
+      "type": "Houses",
+      "description": "Great stay and great host. The bed was very comfortable and the shower was nice.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 116,
+      "address": "30 Collinson Blvd, North York, ON M3H 3B9",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463.662926092015!2d-79.43946362245808!3d43.73866914337374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b32428adff8d9%3A0x4d821a49d9d2e76!2s30%20Collinson%20Blvd%2C%20North%20York%2C%20ON%20M3H%203B9!5e0!3m2!1sen!2sca!4v1646430989138!5m2!1sen!2sca",
+      "image": "https://a0.muscache.com/im/pictures/a5cfd6e6-7d3d-4318-8b33-4edeb751553a.jpg?im_w=1200",
+      "bestSeller": true
+    },
+    {
+      "id": 9,
+      "title": "Warm House ",
+      "type": "Houses",
+      "description": "Very nice host, very clean home. ",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 98,
+      "address": "101 Buckingham Ave, Toronto, ON M4N 1R4",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.232185722049!2d-79.3920801843605!3d43.72650325570537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b32cfc3769383%3A0x5870459d7a0d26fb!2s101%20Buckingham%20Ave%2C%20Toronto%2C%20ON%20M4N%201R4!5e0!3m2!1sen!2sca!4v1646431591018!5m2!1sen!2sca",
+      "image": "https://a0.muscache.com/im/pictures/029e6dfc-f774-41f5-a970-8f1bcb5eb3bc.jpg?im_w=1200",
+      "bestSeller": false
+    },
+    {
+      "id": 10,
+      "title": "Bright Condo",
+      "type": "Condos",
+      "description": "Great place to stay if you an a love one wanna explore Downtown Toronto.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 169,
+      "address": "65 Bremner Blvd, Toronto, ON M5J 0A7",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d531.7520783188884!2d-79.38059781990496!3d43.642766348204255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d4c95cfd69%3A0x361119412a208d58!2sMaple%20Leaf%20Square%20Condos!5e0!3m2!1sen!2sca!4v1646431532335!5m2!1sen!2sca",
+      "image": "https://a0.muscache.com/im/pictures/79634f07-6607-40d7-9961-906cc5294f56.jpg?im_w=1200",
+      "bestSeller": false
+    },
+    {
+      "id": 11,
+      "title": "Huge Studio Condo",
+      "type": "Condos",
+      "description": "Good location and lots of sunlight in apartment! It was cold during our stay so couldnt explore the area by foot.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 135,
+      "address": "21 Iceboat Terr #3512, Toronto, ON M5V 4A9",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d407.24148802476026!2d-79.39753324009058!3d43.640131713748495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b35275b01c6ad%3A0xf369384924801da3!2s21%20Iceboat%20Terrace!5e0!3m2!1sen!2sca!4v1646431834921!5m2!1sen!2sca",
+      "image": "https://a0.muscache.com/im/pictures/7f40b576-ed9e-40eb-9178-74fdf6860a2f.jpg?im_w=960",
+      "bestSeller": true
+    },
+    {
+      "id": 12,
+      "title": "View of Downtown",
+      "type": "Apartments",
+      "description": "Everything is great. Convenient location, good support, clean and quiet.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 203,
+      "address": "315 Front St W, Toronto, ON M5V 3A4",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d288.53482801412144!2d-79.38934867657244!3d43.643373644191826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b35c435a498cb%3A0x864f14d5a1a04d4d!2sMrr%20Sokha!5e0!3m2!1sen!2sca!4v1646432143605!5m2!1sen!2sca",
+      "image": "https://a0.muscache.com/im/pictures/2b340e24-b5c2-42d7-8ed3-68f66a2cb642.jpg?im_w=960",
+      "bestSeller": true
+    },
+    {
+      "id": 13,
+      "title": "Trendy Studio",
+      "type": "Apartments",
+      "description": "Nice place well situated and clean with a good wifi. Could be faster on there respond time.",
+      "houseRules": "No-Smoking; No-Pets; Check-in after 3:00PM, Check-out before 11:00AM",
+      "amenities": "Free Wi-Fi; Spa; Indoor Pool; Laundry Service; Restaurant; Bar",
+      "price": 156,
+      "address": "400 King St W, Toronto, ON M5V 1K2",
+      "mapAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243.95634861128795!2d-79.39353631700902!3d43.64596236426852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d499d1ae3349%3A0xc92b9c158a7a0f08!2s400%20King%20West%20Condos!5e0!3m2!1sen!2sca!4v1646432303103!5m2!1sen!2sca",
+      "image": "https://a0.muscache.com/im/pictures/254bbbef-50a1-4b76-9794-d24333de328d.jpg?im_w=1200",
+      "bestSeller": false
+    }
+  ],
+  "newUsers": []
+}
